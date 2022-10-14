@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @cl1169451697
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
-<!---
-cl1169451697/cl1169451697 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cl1169451697&show_icons=true?count_private=true&hide=contribs)](https://github.com/cl1169451697)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cl1169451697&layout=compact)](https://github.com/cl1169451697)
